@@ -1,0 +1,17 @@
+.resumecontainer{
+    padding-top: 1px;
+    
+    display: flex;
+    flex-direction: row;
+    
+}
+.resume{
+    width: 600px;
+    border-radius: 40px;
+    margin: 50px;
+}
+.resumeTitle{
+    color: white;
+    font-size: 50px;
+    margin-top: -9px;
+}

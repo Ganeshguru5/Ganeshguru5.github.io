@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&family=Encode+Sans+Expanded&display=swap');
+.serviceMain{
+    background-color: #25262a;
+    display: flex;
+   flex-direction: row;
+}
+.content{
+    background-color: #2d2e32;
+    width: 600px;
+    height: 130px;
+    padding: 20px;
+    padding-bottom: 60px;
+}
+.text1{
+    color: white;
+}
+.text2{
+    color: #5f6064;
+    color:#D3D3D3;
+}
+.contents{
+   padding-top: 40px;
+   width: 50%;
+   margin-left: 120px;
+   
+}
+.contentin{
+    padding:90px;
+}
+.description{
+    padding: 20px;
+    padding-bottom: 60px;
+    padding-left: 80px;
+}
+.myself{
+    font-size: 35px;
+    font-family: 'Edu TAS Beginner';
+}

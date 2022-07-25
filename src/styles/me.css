@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded&display=swap');
+.memain{
+    display: flex;
+    flex-direction: row;
+}
+.halftwo{
+    width: 50%;
+    margin-top: 5%;
+}
+.halfone{
+    width: 50%;
+    margin-left: 300px;
+    margin-top: 10%;
+}
+.domain{
+    color: black;
+    background-color:#6ef3a5;
+    width: 190px;
+    padding: 4px;
+    font-weight:bolder ;
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+.quote{
+    font-size: 30px;
+    font-weight:bolder ;
+    font-family: 'Encode Sans Expanded', sans-serif;
+    color: #f8f8f9;
+}
+.miner{
+    color: #7a7c83;
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+.chat{
+    color: #6ef3a5;  
+}
+.profile{
+    width: 300px;
+    
+}
+.django{
+    width: 80px;
+    position: relative;
+    left: 260px;
+    top: 30px;
+}
+.reactjs{
+    width: 100px;
+    position: relative;
+    
+}
+.figma{
+    width: 70px;
+    position: relative;
+    left: 150px;
+   
+    bottom: 40px;
+    
+}
+.nodejs{
+    width: 80px;
+    position: relative;
+    
+}
+.firebase{
+    width: 80px;
+    position: relative;
+    left: 200px;
+    bottom: 80px;
+}
+.nextjs{
+    width: 100px;
+    position: relative;
+    left: 350px;
+    bottom: 220px;
+}

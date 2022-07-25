@@ -1,0 +1,49 @@
+.header{
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.text{
+    color: white;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.text:hover{
+    color: black;
+    background-color: #6ef3a5;
+    font-weight: bold;
+}
+.texticon{
+    color: white;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 10px;
+}
+.texticon:hover{
+    color: black;
+    background-color: #6ef3a5;
+    font-weight: bold;
+}
+.tabs{
+    justify-content:space-between;
+    margin-right: 120px; 
+}
+.tabs2{
+    justify-content:space-between;
+    margin-right: 120px; 
+    margin-left: 600px;
+}
+.social{
+    justify-content:space-evenly;
+}
+.contact{
+    font-weight: bold;
+    color: white;
+}
+.main{
+    padding: 20px;
+   
+    
+    background-color: #2d2e32;
+    display: flex;
+    flex-direction: row;
+}

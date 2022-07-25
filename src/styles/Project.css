@@ -1,0 +1,66 @@
+.project{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.projectMain{
+    padding-top: 20px;
+    background-color: #2d2e32;
+}
+.image{
+    margin: 50px;
+    width: 30%;
+}
+.projectDesc{
+    color: white;
+    background-color: #25262a;
+    padding: 60px;
+    width: 40%;
+}
+.icons{
+    margin: 50px;
+    width: 20%;
+}
+.titilebar{
+    font-size: 50px;
+    color: white;
+    margin-left: 40px;
+}
+.reactjs1{
+    position: relative;
+    left: 30px;
+}
+.firebase1{
+    position: relative;
+    left: 130px;
+    
+}
+.nodejs1{
+    position: relative;
+    bottom: 60px;
+}
+.reactjs2{
+    position: relative;
+    left: 40px;
+    
+    
+}
+.npm1{
+    position: relative;
+    
+}
+.django1{
+    position: relative;
+    left: 90px;
+    
+}
+.postgresql1{
+    position: relative;
+    
+}
+.python1{
+    position: relative;
+    left: 130px;
+    
+}
