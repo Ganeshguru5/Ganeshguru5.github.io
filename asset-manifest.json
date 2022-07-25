@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ganeshguru_a/static/css/main.5ba3447a.css",
+    "main.js": "/ganeshguru_a/static/js/main.fb193f37.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ganeshguru_a/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Profilecroped.png": "/ganeshguru_a/static/media/Profilecroped.2a3d44fb47cac13d8910.png",
+    "static/media/postgresql.png": "/ganeshguru_a/static/media/postgresql.908b48757964f0f4cf99.png",
+    "static/media/reactjs.png": "/ganeshguru_a/static/media/reactjs.a56a89adade2669777ee.png",
+    "static/media/github.png": "/ganeshguru_a/static/media/github.d8fb93e86dfe03f77be5.png",
+    "static/media/happy.png": "/ganeshguru_a/static/media/happy.37676ddb551681529a09.png",
+    "static/media/firebase.png": "/ganeshguru_a/static/media/firebase.ba1cffe8d21763ff0e45.png",
+    "static/media/nodejs.png": "/ganeshguru_a/static/media/nodejs.8c1ec27be32f95c90dc2.png",
+    "static/media/linkedin.png": "/ganeshguru_a/static/media/linkedin.1963aefefaeaa7b1aa6a.png",
+    "static/media/twitter.png": "/ganeshguru_a/static/media/twitter.9609ca758bb0b6291db6.png",
+    "static/media/figma.png": "/ganeshguru_a/static/media/figma.90e87dde837d5f3ceedf.png",
+    "static/media/py.png": "/ganeshguru_a/static/media/py.b903acb0c45a3030109a.png",
+    "index.html": "/ganeshguru_a/index.html",
+    "main.5ba3447a.css.map": "/ganeshguru_a/static/css/main.5ba3447a.css.map",
+    "main.fb193f37.js.map": "/ganeshguru_a/static/js/main.fb193f37.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ganeshguru_a/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ba3447a.css",
+    "static/js/main.fb193f37.js"
+  ]
+}
